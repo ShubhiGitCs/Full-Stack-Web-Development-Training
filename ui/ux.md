@@ -1,4 +1,4 @@
-Today I've learned about UI/UX designing This is my first attemp and it was really interesting and creative. 
+Today I've learned about UI/UX designing This is my first attemp and it was really interesting and creative. That was amazing!
 So this is the implementation of  whatever i've learned this is hotel ui/ux.
 These are some sample images of the design:
 
